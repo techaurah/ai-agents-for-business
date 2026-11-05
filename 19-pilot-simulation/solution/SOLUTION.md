@@ -1,0 +1,3 @@
+# Solution for Lesson 19: Pilot simulation: the lead response twin
+
+The worked run's base case is the rota arithmetic a pilot lives or dies by: 27 escalations and draft cases across the week against a daily capacity of 10, clearing comfortably; double the escalation rate and it still clears, because daily capacity exceeds the daily arrival of queued cases. The number to watch in your own run is not the weekly total but the worst day backlog, since rotas fail on days, not on averages. The twin's other deliverable is the surge rule sentence in the pilot file: when the queue exceeds a day, follow ups pause first, first responses never do. Rules written in calm weeks are followed in hard ones.
