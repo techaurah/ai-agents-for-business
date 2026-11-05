@@ -1,0 +1,3 @@
+# Solution for Lesson 11: The honest cost worksheet: build, run, supervise, fix
+
+The worked example totals: build 1,680, run 7,272 (5400 of fees plus 1,872 of per enquiry charges), supervise 6,200, fix 600, total 15,752, supervision 39 percent on these assumptions. Do not carry the total away; carry the proportions and the method. Run fees, the only number in the sales conversation, are 46 percent of the honest total. Also note what the worksheet deliberately excludes: any revenue claim. Whether faster replies are worth 15,752 a year is a Lesson 13 baseline and Lesson 23 unit economics question, answered with the practice's own conversion counts, and a worksheet that smuggles the benefit side in as a savings percentage has broken the course's first rule.
