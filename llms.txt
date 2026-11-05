@@ -1,0 +1,44 @@
+# AI Agents for Business
+
+A free, complete course on commissioning AI agents in a real business: opportunity audit, readiness, build versus buy versus managed service, honest costing, pilot design, oversight and escalation, risk basics, measurement, and a capstone agent deployment plan. For owners, operators, and consultants; no code required, plain Python twins throughout.
+
+## Lessons
+
+- Lesson 00: Course setup: what you need, and how this course works (00-course-setup/): A verified setup and the honesty rules every number in this course follows
+- Lesson 01: Agent, chatbot, or workflow: three different purchases (01-agent-chatbot-or-workflow/): A classifier for vendor claims: the kind follows from who decides the next step
+- Lesson 02: The opportunity audit: finding the work an agent can carry (02-the-opportunity-audit/): A scored audit of your own processes: volume, waiting, and bounded judgement
+- Lesson 03: Where agents fail: the honest no list (03-where-agents-fail/): A filter that kills bad agent candidates early: stakes, irreversibility, and unbounded judgement
+- Lesson 04: Mapping a process before you automate it (04-mapping-a-process/): A step map with decision points, waits, and handovers marked, on one page
+- Lesson 05: Data readiness: what the agent may read, and whether it is true (05-data-readiness/): A data inventory with a quality grade for every source the agent will touch
+- Lesson 06: Access readiness: accounts, tools, and least privilege (06-access-readiness/): An access plan that gives the agent only its job, revocable in one move
+- Lesson 07: People readiness: owners, operators, and the team that lives with it (07-people-readiness/): A roles sheet with a named operator, the single strongest predictor of pilot success
+- Lesson 08: Build versus buy versus managed service: the fair comparison (08-build-buy-or-managed/): A route decision with reasons recorded: control, cost shape, and who supervises
+- Lesson 09: The framework landscape, in plain language (09-the-framework-landscape/): What LangGraph, CrewAI, and friends mean for a buyer who will never code them
+- Lesson 10: Evaluating a vendor or a platform: the demo is not the product (10-evaluating-a-vendor/): A scored vendor evaluation with traps marked, criteria fixed before the demos
+- Lesson 11: The honest cost worksheet: build, run, supervise, fix (11-the-honest-cost-worksheet/): A total cost model with assumptions stated, the same worksheet for every route
+- Lesson 12: Scoping a pilot that can actually answer the question (12-scoping-a-pilot/): A pilot scope with edges drawn on purpose: one question, four weeks, named exclusions
+- Lesson 13: Baselines and success metrics: measure before you automate (13-baselines-and-success-metrics/): A baseline sheet taken before the pilot, and targets chosen while you are still honest
+- Lesson 14: The agent job description: task, tools, limits, tone (14-the-agent-job-description/): A one page spec a builder or vendor can price, and an operator can enforce
+- Lesson 15: Human oversight and escalation: the ladder (15-oversight-and-escalation/): An escalation policy a checker can test: act, draft, ask, escalate, by risk
+- Lesson 16: Security basics: what an agent must never be able to do (16-security-basics/): A threat list for your own process, with a control named for each threat
+- Lesson 17: Privacy and compliance basics for owners (17-privacy-and-compliance-basics/): Disclosure, data handling, and the questions to take to a professional, in plain language
+- Lesson 18: The failure catalogue: how agents go wrong in businesses (18-the-failure-catalogue/): Eight rehearsed failures, each with its detection, its response, and its owner
+- Lesson 19: Pilot simulation: the lead response twin (19-pilot-simulation/): A rehearsal of the pilot week, offline: arrivals, replies, escalations, and the queue
+- Lesson 20: Testing before trust: the acceptance set (20-testing-before-trust/): A test set that must pass before real customers, and after every change, forever
+- Lesson 21: Rollout: training the team and the first two weeks (21-rollout-and-first-two-weeks/): A rollout plan with a daily review rhythm, a warm manual fallback, and honest team briefing
+- Lesson 22: Reading the pilot scorecard (22-reading-the-pilot-scorecard/): A verdict, scale, fix, or stop, taken against the thresholds set before the pilot
+- Lesson 23: Unit economics: what one handled enquiry really costs (23-unit-economics/): A per outcome cost computed the same way for the agent and for the manual process
+- Lesson 24: The monthly improvement loop (24-the-monthly-improvement-loop/): A review routine that compounds small fixes: scorecard, catalogue, scope, and the acceptance set
+- Lesson 25: Expand, hand over, or stop: the second decision (25-expand-handover-or-stop/): A decision record for what happens after a pilot: new scope, new owner, or an honourable end
+- Lesson 26: Capstone spec: the deployment plan, fixed in advance (26-capstone-spec/): The plan format and its four gates: readiness, pilot, oversight, scorecard
+- Lesson 27: Build the plan: readiness, pilot, oversight (27-build-the-plan/): The complete deployment plan for your own process, assembled and cross checked
+- Lesson 28: Stress test the plan: red team your own deployment (28-stress-test-the-plan/): Hostile cases, failure drills, and the surge, run against the paper before reality runs them
+- Lesson 29: Ship it: present, publish, and showcase your plan (29-ship-it/): The finished plan, reviewed in one sitting, shared as evidence of judgement
+
+## Key files
+
+- README.md: course landing page and lesson table
+- RESEARCH.md: competitor scan the design answers
+- DESIGN.md: the design this repo was built to
+- resources/glossary.md: every course term in plain language
+- showcase/README.md: finished deployment plans from learners

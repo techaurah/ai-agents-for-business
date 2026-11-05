@@ -1,0 +1,12 @@
+# AI Agents for Business: requirements
+#
+# This course needs no third party packages. Every calculator,
+# simulator, and checker runs on the Python 3.11+ standard
+# library alone, because the audience is business operators as
+# much as builders, and a course about honest costing should
+# not start by installing a framework.
+#
+# Optional companions, not installed by this file: Course 1
+# (Agentic AI for Beginners) if you want the builder depth,
+# and any agent framework named in Lesson 09 if your team
+# chooses the build path after Lesson 08.
