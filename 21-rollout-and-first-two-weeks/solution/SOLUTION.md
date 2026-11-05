@@ -1,0 +1,3 @@
+# Solution for Lesson 21: Rollout: training the team and the first two weeks
+
+Read the worked plan for its scarcest resource: owner attention, spent in two deliberate currencies. The daily fifteen minutes in week one is the owner learning the system at case level, which is what makes Lesson 22's verdict meeting fast and fair; an owner who first sees cases at the gate will judge by anecdotes. The owner taking a queue window is the second currency, status: it declares the operator's work is real work, worth the owner's hands, and it teaches the owner the queue's true texture in a way no report survives translation to match. Both cost under two hours across the fortnight. Both are routinely skipped by businesses that then wonder why the pilot's lessons did not stick.
