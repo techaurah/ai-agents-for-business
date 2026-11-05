@@ -1,0 +1,3 @@
+# Solution for Lesson 17: Privacy and compliance basics for owners
+
+The worked checklist's open item is the point of the exercise format: a checklist that can show a deliberate, owned gap is more useful than one that pressures every box to tick. BrightSmile launches after the adviser visit, not before, and the visit is cheap precisely because the five artefacts exist; the adviser reviews a data map and a retention rule instead of reconstructing the system from questions. Note the retention figure's modesty: 90 days exists to serve the quality review and the complaint window, and the number is defensible because its purpose is written next to it. That pairing, period plus purpose, is what a regulator or a court ever actually asks for.
