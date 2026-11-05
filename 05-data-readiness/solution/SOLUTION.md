@@ -1,0 +1,3 @@
+# Solution for Lesson 05: Data readiness: what the agent may read, and whether it is true
+
+The artifact is the worked example, and its two not ready grades are the lesson. Treatment descriptions and patient notes are excluded for different reasons, quality in one case, permission and need in the other, and the audit records the difference because the fixes differ: descriptions could become ready with a clinician review afternoon, while notes stay out of scope by decision, not by delay. Notice also what the partial grade does for the price list: it converts a future incident (agent quotes the stale sheet price) into a build instruction (the agent's only price source is the named website data). Readiness work feels slow only until the first incident it prevents.
