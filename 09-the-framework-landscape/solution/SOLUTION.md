@@ -1,0 +1,3 @@
+# Solution for Lesson 09: The framework landscape, in plain language
+
+The worked example is BrightSmile's vendor comparison, and the instructive moment is the approvals answer. Both finalists claimed human oversight. One located it in the orchestration layer, as checkpoints an operator releases; the other located it in the prompt, as an instruction to the model to be careful with unusual cases. Prompts are advice; checkpoints are architecture. Everything in Module 5 follows from that distinction, and it is invisible unless you ask where approvals live, in those words. The second instructive moment is quieter: neither finalist volunteered a migration answer, and both provided one when asked, which is why the question belongs in writing, in the evaluation, every time.
