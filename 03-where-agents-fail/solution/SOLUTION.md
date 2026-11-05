@@ -1,0 +1,3 @@
+# Solution for Lesson 03: Where agents fail: the honest no list
+
+The artifact's six BrightSmile jobs are the worked example: first replies and invoice chasing pass all three tests; symptom reassurance fails stakes outright; complaint handling fails reversibility and judgement together, while the narrower job of drafting the complaint reply for a manager passes stakes and reversibility and lands in assist only, which is the correct and useful result; quoting unexamined treatment fails reversibility, because a number given is a commitment kept. Two lessons hide in that table. First, splitting a job often rescues it: the draft is safe where the send is not. Second, the filter is fast. Six jobs took minutes, and the output will be quoted in vendor meetings for a year.
