@@ -1,0 +1,3 @@
+# Solution for Lesson 10: Evaluating a vendor or a platform: the demo is not the product
+
+The worked scoresheet teaches by its margins. The demo polished provider lost on the two weight 3 criteria, escalation seen live and reporting held in hand, which are precisely the criteria a demo is designed to avoid quantifying. Note the evidence standard doing quiet work in the diary row: Provider A scored higher there because its integration genuinely was smoother, and the sheet records that fairly; a rigged sheet that never rewards the loser teaches you nothing and convinces no partner. Keep the sheet with the decision record from Lesson 08. Together they are the first two sections of the capstone plan's evidence base, and they took two afternoons, not a consultancy.
