@@ -1,0 +1,3 @@
+# Solution for Lesson 00: Course setup: what you need, and how this course works
+
+Worked example, BrightSmile Dental's new patient enquiries. Trigger: a web form, an Instagram message, or a missed phone call. Who waits: a prospective patient choosing between practices. Frequency: the front desk's own tally over two ordinary weeks, counted on paper, not a system report. Where it hurts: first replies measured in hours, and an unknown number never answered, because no log exists, which is itself the finding. Owner today: whoever at the front desk is free, which means nobody at 7pm. Notice what the five lines exposed: before any agent is discussed, BrightSmile needs a count and a named owner. Lessons 02 and 07 start there on purpose.
