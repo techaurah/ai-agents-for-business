@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<rect width="1200" height="420" fill="#FFFFFF"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0891B2"/></marker></defs>
+<text x="40" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#0B1F4A">Where agents fit: volume against judgement</text>
+<text x="40" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#475569">High volume with bounded judgement is the starting quadrant.</text>
+<rect x="40" y="98" width="90" height="5" fill="#0891B2"/>
+<rect x="40" y="140" width="540" height="90" rx="12" fill="#E0F2FE"/>
+<text x="310.0" y="181.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#0B1F4A">High volume, low judgement</text>
+<text x="310.0" y="205.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#33506E">workflow first, agent maybe</text>
+<rect x="620" y="140" width="540" height="90" rx="12" fill="#E0F2FE"/>
+<text x="890.0" y="181.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#0B1F4A">High volume, bounded judgement</text>
+<text x="890.0" y="205.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#33506E">the agent sweet spot</text>
+<rect x="40" y="260" width="540" height="90" rx="12" fill="#E0F2FE"/>
+<text x="310.0" y="301.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#0B1F4A">Low volume, high judgement</text>
+<text x="310.0" y="325.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#33506E">keep human, assist only</text>
+<rect x="620" y="260" width="540" height="90" rx="12" fill="#E0F2FE"/>
+<text x="890.0" y="301.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#0B1F4A">Low volume, low judgement</text>
+<text x="890.0" y="325.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#33506E">a rule or a template</text>
+<text x="40" y="402" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#475569">Lesson 03 is the no list: high stakes, irreversible, or judgement heavy work stays human.</text>
+</svg>
