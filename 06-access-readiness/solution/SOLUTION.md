@@ -1,0 +1,3 @@
+# Solution for Lesson 06: Access readiness: accounts, tools, and least privilege
+
+In the worked plan, notice how much of the safety comes from the none rows. Patient records and payments at none are not omissions; they are the strongest lines in the document, because they convert entire categories of incident into impossibilities. The diary at read only for the pilot surprises people, since booking is the obvious payoff, but the reasoning is the course in one move: the pilot's question (Lesson 12) is whether the agent triages and replies well, and that question can be answered without write access to the diary. Write access is then a scale decision in Lesson 25, taken with scorecard evidence, rather than a launch default taken on hope.
