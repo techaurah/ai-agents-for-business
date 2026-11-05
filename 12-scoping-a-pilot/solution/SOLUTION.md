@@ -1,0 +1,3 @@
+# Solution for Lesson 12: Scoping a pilot that can actually answer the question
+
+The worked scope rewards attention to its exclusions, which outnumber its inclusions. That ratio is typical of a well scoped pilot and feels wrong only if you think a pilot is a small launch. It is not; it is a measurement instrument, and measurement instruments are mostly shielding. Note also the hours edge doing double duty: piloting in closed hours targets the actual gap from Lesson 04's map (the five hour wait), and leaves a live comparison group, the staffed hours, handled by humans in the same weeks. Scorecards love a comparison group (Lesson 22), and pilots that automate everything at once throw theirs away.
