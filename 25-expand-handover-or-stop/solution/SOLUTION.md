@@ -1,0 +1,3 @@
+# Solution for Lesson 25: Expand, hand over, or stop: the second decision
+
+Study the classification, because it reverses most teams' instincts. The whole second location, the proposal that feels enormous, is a volume delta: same judgements, same data, more arrivals, a rota question. The insurance questions, four words in a chat, move the bounded judgement frontier into territory Lesson 02 never sampled and Lesson 03 never filtered, with error costs (a wrong coverage statement) a category above the pilot's. Ceremony follows the frontier, not the headline size. That single habit, proportioning scrutiny to judgement risk rather than to organisational drama, is as close as this course gets to a universal law, and it will serve you in procurements far from agents.
