@@ -1,0 +1,35 @@
+{
+  "deployment_plan": {
+    "readiness": {
+      "data_grades": "per source, Lesson 05 format",
+      "access_decisions": "external items decided by name",
+      "roles_named": [
+        "owner",
+        "operator",
+        "backup_operator"
+      ],
+      "route_decision": "recorded with sensitivity sentence"
+    },
+    "pilot": {
+      "question": "one answerable question",
+      "exclusions": [
+        "named from the no list"
+      ],
+      "baseline": "measured or scheduled with dates",
+      "thresholds": "scale and stop lines set",
+      "job_description": "one page, nevers traced"
+    },
+    "oversight": {
+      "escalation_policy": "every action on a rung",
+      "threat_list": "five threats with controls",
+      "privacy_checklist": "five artefacts or dated gaps",
+      "failure_catalogue": "entries with single owners"
+    },
+    "scorecard": {
+      "measures_match_baseline": true,
+      "verdict_rules": "scale, fix and rerun, stop",
+      "unit_economics_method": "symmetric, value in a separate column",
+      "monthly_agenda": "five standing items"
+    }
+  }
+}
