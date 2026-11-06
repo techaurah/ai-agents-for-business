@@ -1,0 +1,3 @@
+# Solution for Lesson 22: Reading the pilot scorecard
+
+Dwell on the correctness line, because it is where scorecard literacy shows. A lazy read says 90 against a line of 92 equals failure, full stop, and a vendor's read says 90 is basically 92, also wrong. The disciplined read asks where the errors live: concentration in one fixable category (mixed content phrasing, already understood since Lesson 15) converts a near miss into a fix verdict with a named repair and a bounded rerun, while the same number spread evenly would convert to stop. Thresholds decide, but diagnosis decides what the threshold means. That is why the scorecard carries cases beside numbers, and why Lesson 24's improvement loop is mostly a machine for moving one concentrated error category at a time.
