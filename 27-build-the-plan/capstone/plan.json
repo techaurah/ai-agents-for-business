@@ -1,0 +1,50 @@
+{
+  "process": "New patient enquiry first response, worked example (BrightSmile Dental, fictional)",
+  "scope_exclusions": [
+    "phone",
+    "clinical content",
+    "complaints",
+    "payments"
+  ],
+  "job_exclusions": [
+    "phone",
+    "clinical content",
+    "complaints",
+    "payments"
+  ],
+  "roles_named": [
+    "Practice manager",
+    "Senior receptionist",
+    "Junior receptionist"
+  ],
+  "escalation_destinations": [
+    "Practice manager",
+    "Senior receptionist"
+  ],
+  "baseline_measures": [
+    "first_response_median",
+    "never_answered_pct",
+    "standard_path_pct",
+    "sampled_correct_pct",
+    "cost_per_handled"
+  ],
+  "scorecard_measures": [
+    "first_response_median",
+    "never_answered_pct",
+    "standard_path_pct",
+    "sampled_correct_pct",
+    "cost_per_handled"
+  ],
+  "access_systems": [
+    "enquiry inboxes",
+    "diary",
+    "price data",
+    "messaging"
+  ],
+  "job_tools": [
+    "enquiry inboxes",
+    "diary",
+    "price data",
+    "messaging"
+  ]
+}
