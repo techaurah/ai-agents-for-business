@@ -1,0 +1,31 @@
+{
+  "first_page": {
+    "process": "New patient enquiry first response (BrightSmile Dental, fictional worked example)",
+    "question": "Can an agent answer standard enquiries in closed hours at our quality bar and a carryable escalation rate?",
+    "route": "managed service, conditions recorded",
+    "gate_date": "Friday of pilot week five"
+  },
+  "readiness": {
+    "grades": "diary ready, prices partial in limit, descriptions and notes out of scope"
+  },
+  "pilot": {
+    "scope": "closed hours, web and Instagram, standard path"
+  },
+  "oversight": {
+    "policy": "four rungs, checker passed",
+    "catalogue": "eight entries, single owners"
+  },
+  "scorecard": {
+    "measures": "baseline five, thresholds signed"
+  },
+  "residue": [
+    "model upgrades may shift tone; monthly acceptance run watches it",
+    "escalation rate rests on a twenty case sample; first pilot week remeasures it",
+    "provider acquisition would trigger an exit test within one month"
+  ],
+  "review_dates": [
+    "first Monday monthly: Lesson 24 review",
+    "quarterly: adviser invited"
+  ],
+  "decision": "proceed to pilot"
+}
