@@ -1,0 +1,3 @@
+# Solution for Lesson 23: Unit economics: what one handled enquiry really costs
+
+Check the worked arithmetic once, slowly, because the method is the lesson: manual, 9 minutes at 22 an hour is 3.30, plus 1.2 minutes at 40 is 0.80, total 4.10. Agent, the four week total is 1,264 across 360 enquiries, 3.51 each, of which the platform and per enquiry run charges are only 594; the rest is people, which is why Lesson 24's improvement loop spends so much of its attention on supervision efficiency rather than fee shopping. If your decomposition shows run fees dominating instead, your lever order reverses, and that reversal, discovered from your own sheet rather than from a generic playbook, is the entire point of doing the arithmetic.
